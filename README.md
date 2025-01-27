@@ -1,0 +1,1 @@
+# CLIP-Zero-shot-semantic-segmentation
